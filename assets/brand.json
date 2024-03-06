@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "brandName":"Glossier"
+    },
+    {
+        "id":2,
+        "brandName":"Fenty Beauty"
+    },
+    {
+        "id":3,
+        "brandName":"Sephora"
+    },
+    {
+        "id":4,
+        "brandName":"Neutrogena"
+    },
+    {
+        "id":5,
+        "brandName":"Ordinary"
+    },
+    {
+        "id":6,
+        "brandName":"Other"
+    },
+    {
+        "id":7,
+        "brandName":"Clinique"
+    }
+
+]
