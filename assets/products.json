@@ -7,7 +7,7 @@
         "desc": "Oil serum hybrid",
         "price": 27.99,
         "img": {
-            "src": "../images/glossier_serum2.png",
+            "src": "/images/glossier_serum2.png",
             "alt": "Product 1"
         },
         "currency": "USD",
